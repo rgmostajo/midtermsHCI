@@ -1,0 +1,52 @@
+html, body{
+   
+}
+
+.container{
+  float: left;
+  width: 15%;
+  padding-right: 600px;
+  padding-left: 550px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  text-align: left;
+  margin: 9px 0;
+  line-height: 1.6;
+}
+
+.header{
+	text-align: center;
+}
+
+.information{
+	text-align: left;
+	margin: 20px 0;
+}
+
+button {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 10px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+
+.cancel {
+  background-color: #4CAF50;
+}
+
+.cancel, .signup {
+  float: left;
+  width: 50%;
+}
+
+
+
